@@ -4,7 +4,6 @@ This repository showcases selected coursework and projects from my Master of App
 
 ## Highlights
 - **Employee Performance Prediction (ML, Python, XGBoost/Random Forest)** — end‑to‑end classification pipeline with fairness‑aware preprocessing and feature importance.
-- **COMP8831 Assignment 2** — multi‑dataset classification exercises (California Housing, Wine, Digits, Forest Cover) demonstrating model comparison, evaluation, and optimisation.
 - **Data Warehousing & Big Data** — (placeholder) dimensional modelling & ELT/ETL with SQL/PostgreSQL; to be added.
 - **Dashboards** — (placeholder) interactive prototypes (Power BI / Python) with maps, filters, and drill‑downs; to be added.
 
@@ -15,12 +14,10 @@ This repository showcases selected coursework and projects from my Master of App
 .
 ├── machine-learning
 │   ├── employee-performance-xgb-rf
-│   │   ├── README.md
-│   │   └── notebooks/   # add your .ipynb here
-│   └── assignment2-multiclass-experiments
-│       ├── README.md
-│       └── notebooks/   # add your .ipynb here
-├── dashboards           # placeholder for Power BI / Plotly Dash
+│      ├── README.md
+│      └── notebooks/   
+│   
+├── dashboards           
 │   └── README.md
 ├── data-warehousing-bigdata
 │   └── README.md
